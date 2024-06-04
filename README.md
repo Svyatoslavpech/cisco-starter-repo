@@ -1,2 +1,4 @@
 # cisco-starter-repo
-A network dashboard, called Sextant, is a locally hosted single-page application with IP and latency metrics that are a top priority meant to assist field technicians in their day-to-day.  React is Sextant’s front-end framework.
+My Project. React.js & Node.js
+●	Set up a React application and stitch together a series of reusable React components to create a dashboard frontend
+●	Used WebSocket to connect to an external service and display packet latency
