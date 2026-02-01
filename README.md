@@ -26,14 +26,6 @@ This project highlights **real-time data processing**, **data visualization**, a
 
 ---
 
-## 📈 Screenshots (Preview)
-> Add screenshots of your dashboard here.  
-
-![Dashboard Preview](./screenshots/dashboard.png)  
-*Real-time network metrics visualized interactively.*
-
----
-
 ## ⚡ Future Directions
 - 🔹 Backend integration for automated data collection  
 - 🔹 AI/ML models for latency prediction and anomaly detection  
